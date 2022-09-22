@@ -9,15 +9,15 @@ Hopefully by the end of the course the weighting towards things going well is ab
 
 ## About Me
 
-*Name*
+**Name**
 
 Asli Champion
 
-*Company*
+**Company**
 
 Apple
 
-*Bio*
+**Bio**
 
 I have worked in an Apple retail store for the last 7 years, most recently as a Mac 
 technician at the Genius Bar. I've always enjoyed working with technical 
@@ -29,12 +29,12 @@ the world of software development!
 
 Things that I have found useful:
 
-**Applications**
+### Applications
 
 
-**Websites**
+### Websites
 
 
-**Reading**
+### Reading
 
 
