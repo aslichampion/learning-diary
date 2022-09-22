@@ -31,6 +31,8 @@ Things that I have found useful:
 
 ### Applications
 
+[Rectangle](https://rectangleapp.com) - Never have I ever had to manage so many 
+windows at once! Great open source window management/ snapping tool.
 
 ### Websites
 
