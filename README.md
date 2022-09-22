@@ -9,21 +9,21 @@ Hopefully by the end of the course the weighting towards things going well is ab
 
 ## About Me
 
-**Name**
+### Name
 
 Asli Champion
 
-**Company**
+### Company
 
 Apple
 
-**Bio**
+### Bio
 
 I have worked in an Apple retail store for the last 7 years, most recently as a Mac 
 technician at the Genius Bar. I've always enjoyed working with technical 
-concepts, but my formal education has been in music and music psychology. I'm hoping 
-that I can combine the best of my technical knowledge and creative passion within 
-the world of software development! 
+concepts, but my formal education has been in music and psychology. I'm hoping 
+that I can combine the best of my technical knowledge, creative passion and 
+curiosity around humnan behaviour within the world of software development! 
 
 ## Resources
 
