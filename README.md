@@ -34,8 +34,8 @@ Things that I have found useful:
 
 ### Websites
 
-[Markdown Syntax](https://www.markdownguide.org/basic-syntax) A good place I started 
-when building this page!
+[Markdown Syntax](https://www.markdownguide.org/basic-syntax) - The place I 
+started when building this page!
 
 ### Reading
 
